@@ -1,5 +1,5 @@
 # Coursera
-<h1>Completed Courses on Coursera</h1>
+<h3>Completed Courses on Coursera</h3>
 
 * Supervised Machine Learning: Classification & Regression
 * Advance Machine Learning Algorithms
